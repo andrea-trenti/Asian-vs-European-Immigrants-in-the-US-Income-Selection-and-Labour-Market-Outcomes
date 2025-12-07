@@ -45,7 +45,7 @@ Pew Research Center reports that in 2023 households headed by an Asian person (r
 
 MPI’s synthesis using ACS shows that:
 
-- **Asia-born immigrants** have a **median household income around $105,000–$110,000**, roughly **35–40%** above the overall immigrant median (~$78,700) and above the native-born median (~$77,600).[1][6]  
+- **Asia-born immigrants** have a **median household income around $105,000–$110,000**, roughly **35–40%** above the overall immigrant median (approx. $78,700) and above the native-born median (approx. $77,600).[1][6]  
 - **Europe-born immigrants** have a **median household income around $86,000**, sitting between Asian immigrants and both the overall immigrant and native-born medians.[2][6]  
 
 Poverty rates differ accordingly. Around **11%** of Asia-born immigrants live below the federal poverty line, compared to **12–13%** for Europe-born and **14%** for all immigrants.[1][2][18] These figures already suggest that Asian immigrants occupy a substantially more advantaged position in the US income distribution than Europeans or other foreign-born groups.
