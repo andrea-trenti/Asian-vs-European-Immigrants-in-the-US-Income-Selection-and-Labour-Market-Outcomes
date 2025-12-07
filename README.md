@@ -36,7 +36,7 @@ All analytical text, indicator structures and commentary in this repository are 
 
 4. Copyright e riuso
 
-© 2025 Andrea Trenti. Tutti i diritti riservati.
-	•	I testi analitici, le tabelle e la struttura degli indicatori sono opere originali protette da copyright.
-	•	I dati statistici di base restano di proprietà dei rispettivi enti (World Bank, IMF, associazioni di categoria, ecc.) e sono utilizzati esclusivamente a fini analitici e didattici.
-	•	Non è concessa alcuna licenza open-source o Creative Commons per il riuso integrale dei testi; eventuali utilizzi sostanziali richiedono l’autorizzazione dell’autore.
+© 2025 Andrea Trenti. All rights reserved.
+• The analytical texts, tables and structure of the indicators are original works protected by copyright.
+• The underlying statistical data remain the property of their respective institutions (World Bank, IMF, industry associations, etc.) and are used exclusively for analytical and educational purposes.
+• No open-source or Creative Commons licence is granted for the full reuse of the texts; any substantial reuse requires the author’s permission.
