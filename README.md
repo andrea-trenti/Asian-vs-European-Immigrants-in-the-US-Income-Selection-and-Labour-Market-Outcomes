@@ -34,7 +34,7 @@ The project is designed as a set of stand-alone research notes. Each file is a s
 
 All analytical text, indicator structures and commentary in this repository are the intellectual work of the repository owner. No formal open-source or Creative Commons licence is granted. Readers are free to quote or reuse reasonable excerpts for research, teaching or internal work, ideally with proper attribution to the author. Substantial reuse, especially outside research/teaching/internal contexts, should provide clear credit to the author and, where feasible, seek prior permission. Nothing in this README or in the papers constitutes legal advice.
 
-4. Copyright e riuso
+4. Copyright and reuse
 
 © 2025 Andrea Trenti. All rights reserved.
 • The analytical texts, tables and structure of the indicators are original works protected by copyright.
